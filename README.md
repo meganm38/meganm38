@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Megan👋
+<br>
+<p>I'm currently studying Master of Software Engineering at the University of British Columbia.</p>
+<ul>
+<li>:briefcase: Currently interning at Texavie.</li>
+<li>:mortar_board: Has a Bachelor's of Applied Science degree in Mechanical Engineering at the University of British Columbia.</li>
+</ul>
+<p>Feel free to send me an email if you'd like to chat!<p>
+<a href="mailto:menghanma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</a>
 
 <!--
 - 🔭 I’m currently working on ...
