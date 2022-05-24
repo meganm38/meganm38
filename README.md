@@ -1,4 +1,4 @@
-### Hi there, I'm Megan👋
+<h1>Hi there, I'm Megan👋</h1>
 <br>
 <p>I'm currently studying Master of Software Engineering at the University of British Columbia.</p>
 <ul>
