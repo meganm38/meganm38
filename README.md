@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./images/cover.png" alt="cover-img">
 <br>
-<p>I'm currently studying Master of Software Engineering at the University of British Columbia.</p>
+<p>I'm currently pursuing a Master's degree in Software Engineering at the University of British Columbia.</p>
 <ul>
   <li>:briefcase: Currently interning at Texavie.</li>
   <li>:mortar_board: Has a Bachelor of Applied Science degree in Mechanical Engineering at the University of British Columbia.</li>
