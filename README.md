@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Megan👋</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganm38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganm38&layout=compact&hide=makefile,C)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meganm38&count_private=true)
 <br>
