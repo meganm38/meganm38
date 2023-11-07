@@ -3,7 +3,7 @@
 <br>
 <p>I'm currently pursuing a Master's degree in Software Engineering at the University of British Columbia.</p>
 <ul>
-  <li>:briefcase: Working part-time at Texavie on <strong>iOS and Web development</strong>.</li>
+  <li>:briefcase: Working full-time at Texavie as <strong>Software Engineer.</strong>.</li>
   <li>:mortar_board: Has a Bachelor of Applied Science degree in Mechanical Engineering at the University of British Columbia.</li>
 </ul>
 <p>Feel free to send me an email if you'd like to chat!<p>
